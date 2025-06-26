@@ -10,13 +10,13 @@ Here are some awesome repositories and project links I've contributed to as part
 
 | Organization | Repository | Description |
 |--------------|------------|-------------|
-| [Duality Ai](https://github.com/orgs/Absolute-Tech-for-DualityAi-track/) | [Models](https://github.com/orgs/Absolute-Tech-for-DualityAi-track/repositories) | A conversational AI agent that helps users mint and manage NFTs on the Flow blockchain using natural language. |
-| [HackTheSpace](https://github.com/orgs/AbsoluteTechRBU) | [link](https://github.com/orgs/AbsoluteTechRBU/repositories) | A conversational AI agent that helps users mint and manage NFTs on the Flow blockchain using natural language. |
-| [TSR project](https://github.com/orgs/Bug-Bounty-Buddies/) | [TSR](https://github.com/orgs/Bug-Bounty-Buddies/repositories) | Built interfaces and smart contract integrations to power decentralized data sharing. |
-| [Unfold24](https://github.com/orgs/Absolute-Tech-Unfold24/) | [Project](https://github.com/orgs/Absolute-Tech-Unfold24/repositories) | A full-stack platform to manage hackathon submissions, scoring, and leaderboards. |
-| [PecHack](https://github.com/orgs/Absolute-Tech-at-PECHack/) | [EnviroEarn](https://github.com/orgs/Absolute-Tech-at-PECHack/repositories) | Built interfaces and smart contract integrations to power decentralized data sharing. |
-| [HackHound](https://github.com/orgs/Absolute-Tech-HackHound/) | [Teamiz](https://github.com/orgs/Absolute-Tech-HackHound/repositories) | Built interfaces and smart contract integrations to power decentralized data sharing. |
-| [HackByte2.0](https://github.com/orgs/Absolute-Tech-At-HackByte/) | [Game Stimulax](https://github.com/orgs/Absolute-Tech-At-HackByte/repositories) | Built interfaces and smart contract integrations to power decentralized data sharing. |
+| [Duality Ai](https://github.com/orgs/Absolute-Tech-for-DualityAi-track/) | [Models](https://github.com/orgs/Absolute-Tech-for-DualityAi-track/repositories) | A model training hackathons project for Duality track, worked on a synthetic dataset |
+| [HackTheSpace](https://github.com/orgs/AbsoluteTechRBU) | [link](https://github.com/orgs/AbsoluteTechRBU/repositories) | Worked on diamante blockchain track |
+| [TSR project](https://github.com/orgs/Bug-Bounty-Buddies/) | [TSR](https://github.com/orgs/Bug-Bounty-Buddies/repositories) | Built an Model for traffic sign recognition and audio feedback  |
+| [Unfold24](https://github.com/orgs/Absolute-Tech-Unfold24/) | [Project](https://github.com/orgs/Absolute-Tech-Unfold24/repositories) | Worked on Rabble track |
+| [PecHack](https://github.com/orgs/Absolute-Tech-at-PECHack/) | [EnviroEarn](https://github.com/orgs/Absolute-Tech-at-PECHack/repositories) | Winner of Autho Track and integration with Blockchain |
+| [HackHound](https://github.com/orgs/Absolute-Tech-HackHound/) | [Teamiz](https://github.com/orgs/Absolute-Tech-HackHound/repositories) | Worked on Midnight and auth0 track |
+| [HackByte2.0](https://github.com/orgs/Absolute-Tech-At-HackByte/) | [Game Stimulax](https://github.com/orgs/Absolute-Tech-At-HackByte/repositories) | Built interfaces and and working .exe for game working |
 
 
 # 💫 About Me:
