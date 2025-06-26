@@ -4,7 +4,19 @@ blockchain. Proven leader in 8+ hackathons. Passionate about scalable tech and u
 <img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 
+# 🏢 Additional Work Available on Organizations
 
+Here are some awesome repositories and project links I've contributed to as part of various teams:
+
+| Organization | Repository | Description |
+|--------------|------------|-------------|
+| [Duality Ai](https://github.com/orgs/Absolute-Tech-for-DualityAi-track/) | [Models](https://github.com/orgs/Absolute-Tech-for-DualityAi-track/repositories) | A conversational AI agent that helps users mint and manage NFTs on the Flow blockchain using natural language. |
+| [HackTheSpace](https://github.com/orgs/AbsoluteTechRBU) | [link](https://github.com/orgs/AbsoluteTechRBU/repositories) | A conversational AI agent that helps users mint and manage NFTs on the Flow blockchain using natural language. |
+| [TSR project](https://github.com/orgs/Bug-Bounty-Buddies/) | [TSR](https://github.com/orgs/Bug-Bounty-Buddies/repositories) | Built interfaces and smart contract integrations to power decentralized data sharing. |
+| [Unfold24](https://github.com/orgs/Absolute-Tech-Unfold24/) | [Project](https://github.com/orgs/Absolute-Tech-Unfold24/repositories) | A full-stack platform to manage hackathon submissions, scoring, and leaderboards. |
+| [PecHack](https://github.com/orgs/Absolute-Tech-at-PECHack/) | [EnviroEarn](https://github.com/orgs/Absolute-Tech-at-PECHack/repositories) | Built interfaces and smart contract integrations to power decentralized data sharing. |
+| [HackHound](https://github.com/orgs/Absolute-Tech-HackHound/) | [Teamiz](https://github.com/orgs/Absolute-Tech-HackHound/repositories) | Built interfaces and smart contract integrations to power decentralized data sharing. |
+| [HackByte2.0](https://github.com/orgs/Absolute-Tech-At-HackByte/) | [Game Stimulax](https://github.com/orgs/Absolute-Tech-At-HackByte/repositories) | Built interfaces and smart contract integrations to power decentralized data sharing. |
 
 
 # 💫 About Me:
