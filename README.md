@@ -8,7 +8,28 @@ blockchain. Proven leader in 8+ hackathons. Passionate about scalable tech and u
 
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+## 🔭 I’m currently working on<br>
+- Enhancing my skills in this vast technical domain<br>
+- Exploring AI & ML algorithms and their applications<br>
+- Working on personal projects to expand my skills and knowlegde<br><br>
+
+## 👯 I’m looking to collaborate on<br>
+- Open source projects related to web development or machine learning<br>
+- Freelance opportunities to contribute my skills to exciting projects<br><br>
+
+## 🤝 I’m looking for help with<br>
+- Understanding advanced machine learning concepts and blockchain & web3<br>
+- Improving my coding practices and architecture design<br><br>
+
+## 🌱 I’m currently learning<br>
+- Deep learning algorithms and frameworks like TensorFlow and PyTorch<br>
+- Advanced JavaScript concepts and modern frontend development tools<br>
+- Strategies for effective project management and collaboration<br><br>
+
+## ⚡ Fun fact<br>
+- I am a vibe coder<br>
+- I also enjoy playing chess
 
 
 ## 🌐 Socials:
