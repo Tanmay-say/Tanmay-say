@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanmay Sayare</h1>
+<h1 align="center">GM 👋, I'm Tanmay Sayare</h1>
 <h3 align="center">Computer Science undergraduate with hands-on experience in AI/ML, full-stack development, and
 blockchain. Proven leader in 8+ hackathons. Passionate about scalable tech and user-centric design.</h3>
 <img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
